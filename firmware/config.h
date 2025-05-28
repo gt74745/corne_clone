@@ -1,0 +1,7 @@
+#pragma once
+
+#define MASTER_LEFT
+#define SERIAL_USART_TX_PIN GP0
+
+#define MATRIX_COL_PINS_RIGHT { GP20, GP22, GP27, GP4, GP5, GP7 }
+#define MATRIX_ROW_PINS_RIGHT { GP28, GP26, GP3, GP6 }
